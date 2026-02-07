@@ -1,0 +1,7 @@
+idea_goce_mark.txt
+
+Users often have a massive, unorganized list of raw thoughts, meeting snippets, and checklists, making it difficult to find connections or actionable tasks without manual sorting.
+
+ Instead of just storing text, AI will analyze the content of new notes and automatically suggest "links" to existing relevant notes or generate a summary of related themes 
+
+As a student, I want AI to automatically detect tasks and deadlines in my notes, so that I don’t forget important responsibilities and can stay organized.
